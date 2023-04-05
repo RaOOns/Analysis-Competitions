@@ -12,7 +12,7 @@ Prediction of weekly sea ice extent change using changes in Arctic sea ice obser
 
 <br/>
 
-### My skills
+### My approach
 I wanted to use time series analysis to solve image data.
 
 This approach was interesting, but it took a lot of time, and I was immature.
