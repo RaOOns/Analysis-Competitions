@@ -12,8 +12,6 @@ I created derived variables and used machine learning.
 <br/>
 
 ### Data
-- **Significant:** All given features can be used during model training, but only a limited number of features can be used during diagnostic testing.
-
 - Train data
   - ID
   - Target: Yield
