@@ -1,5 +1,5 @@
 # Construction Machinery Oil Condition Classification AI Competiton
-- 건설기계 오일 상태 분류 AI 경진대회
+**건설기계 오일 상태 분류 AI 경진대회**
 
 ### The Goal
 Development of an oil condition judgment model to monitor the condition of operating oil in construction equipment in real time (binary classification: normal, abnormal)
