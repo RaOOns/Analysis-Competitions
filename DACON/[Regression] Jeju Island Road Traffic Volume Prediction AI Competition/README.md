@@ -8,7 +8,7 @@ Development of an AI model for predicting Jeju Island Road Traffic Volume
 
 ### My approach
 - I created derived variables and used machine learning.
-- **Jeju.py**: It is a function file created for the analysis competition.
+- **Jeju_.py**: It is a function file created for the analysis competition.
 
 <br/>
 
