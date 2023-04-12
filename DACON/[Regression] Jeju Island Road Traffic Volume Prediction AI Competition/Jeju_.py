@@ -1,3 +1,7 @@
+"""
+This is a function file created for the analysis competition.
+"""
+
 import pandas as pd
 import numpy as np
 
